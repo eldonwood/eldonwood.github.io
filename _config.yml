@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Evelyn Choi"
-  avatar           : "/docs/assets/images/smileFace.png"
+  avatar           : "/images/2022-08-15-starter/smileFace.png"
   bio              : "Hi, I'm Evelyn. Welcome to my personal blog"
   location         : "Seoul"
   email            :
