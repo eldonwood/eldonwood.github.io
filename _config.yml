@@ -107,7 +107,7 @@ author:
   name             : "Evelyn Choi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hi, I'm Evelyn. Welcome to my personal blog"
-  location         : "Seoul -> Vancouver -> Seoul -> ?"
+  location         : "Seoul"
   email            :
   links:
     - label: "Email"
